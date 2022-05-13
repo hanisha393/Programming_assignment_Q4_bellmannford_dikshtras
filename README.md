@@ -5,6 +5,6 @@ Nandigam Hanisha Chowdary --CS21M507
   output     : bellmanford_output
   input graph: bellmanford_graph
 2.Dijkshtras
-  Source code: sijkshtras_algo
-  output     : sijkshtras_output
-  input graph: sijkshtras_graph
+  Source code: dijkshtras_algo
+  output     : dijkshtras_output
+  input graph: dijkshtras_graph
